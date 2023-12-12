@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RESULT</title>
+  <script src="/static/js/chart.js"></script>
+  <link rel="stylesheet" type="text/css" href="{{ css_file }}">
+</head>
+<body>
+  <div class="div-flex">
+    <div class="left-images">
+      <a href="/">
+        <img src="/static/pic/icpc-logo.png" />
+      </a> 
+      <a href="https://www.scu.edu.cn/">
+        <img src="/static/pic/scu.png" />
+      </a>
+    </div>
+    <nav class="center-links">
+      <a href="/players">选手</a>
+      <a href="/matches">比赛</a>
+      <a href="/schools">学校</a>
+      <a href="/teams">队伍</a>
+      <a href="/coaches">教练</a>
+    </nav>
+  </div>
+  <h1>Result of {{ result_text }}</h1>
+  <div class ="inner-container">
+    Total: 
+  <span>
+    {{gold}}  <img src="/static/pic/gold_b.png" style="width: 16px; height: 25px;">    {{silver}}  <img src="/static/pic/silver_b.png" style="width: 16px; height: 25px;">    {{bronze}}  <img src="/static/pic/bronze_b.png" style="width: 16px; height: 25px;">     
+  </span>
+</div>
+  <div class="outer-container">
+  <canvas id="myChart" width="200" height="60"></canvas> <!-- 调整画布大小 -->
+  <script>
+      var Res = {{ Res | tojson }}; 
+  
+      var years = Res.map(item => item.Year);
+      var goldMedals = Res.map(item => item.Gold);
+      var silverMedals = Res.map(item => item.Silver);
+      var bronzeMedals = Res.map(item => item.Bronze);
+  
+      var ctx = document.getElementById('myChart').getContext('2d');
+      var myChart = new Chart(ctx, {
+          type: 'line',
+          data: {
+              labels: years,
+              datasets: [
+                  {
+                      label: 'Gold',
+                      data: goldMedals,
+                      borderColor: 'gold',
+                      borderWidth: 6, // 加粗线条
+                      pointRadius: 6, // 增大数据点
+                      pointBackgroundColor: 'gold', // 数据点颜色
+                  },
+                  {
+                      label: 'Silver',
+                      data: silverMedals,
+                      borderColor: 'silver',
+                      borderWidth: 6, // 加粗线条
+                      pointRadius: 6, // 增大数据点
+                      pointBackgroundColor: 'silver', // 数据点颜色
+                  },
+                  {
+                      label: 'Bronze',
+                      data: bronzeMedals,
+                      borderColor: '#cd7f32',
+                      borderWidth: 6, // 加粗线条
+                      pointRadius: 6, // 增大数据点
+                      pointBackgroundColor: '#cd7f32', // 数据点颜色
+                  }
+              ]
+          },
+          options: {
+            scales: {
+                yAxes: [{
+                    gridLines: {
+                        color: "rgba(0,0,0,0.8)",
+                    },
+                    ticks: {
+                        beginAtZero: true,
+                        fontColor: "black",
+                    }
+                }],
+                xAxes: [{
+                    gridLines: {
+                        color: "rgba(0,0,0,0.8)",
+                    },
+                    ticks: {
+                        fontColor: "black",
+                    }
+                }]
+            },
+            tooltips: {
+                callbacks: {
+                    label: function(tooltipItem, data) {
+                        var label = data.datasets[tooltipItem.datasetIndex].label || '';
+                        if (label) {
+                            label += ': ';
+                        }
+                        label += tooltipItem.yLabel;
+                        return label;
+                    }
+                }
+            }
+        }
+
+      });
+  </script>
+  </div>
+  <div">
+    {% for i in range(matnumber) %}
+      <div class="inner-container">
+        <a href="#" onclick="writeMatchAndRedirect('{{ Matres[i].ACMNAME }}')">{{ Matres[i].ACMNAME }}</a> on {{Matres[i].Date}}
+        <span class="medals">
+          {{Matres[i].Gold}}  <img src="/static/pic/gold_b.png" style="width: 16px; height: 25px;">    {{Matres[i].Silver}}  <img src="/static/pic/silver_b.png" style="width: 16px; height: 25px;">    {{Matres[i].Bronze}}  <img src="/static/pic/bronze_b.png" style="width: 16px; height: 25px;">     
+        </span>
+      </div>
+      {% endfor %}
+  </div>
+  <script>
+    function writeMatchAndRedirect(name) {
+        fetch('/write-match', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ Name: name }),
+        })
+        .then(response => {
+            if (response.ok) {
+                window.location.href = '/resultofmatch';  // 然后重定向到 result.html
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    }
+    </script>
+</body>
+<footer class="c-footer">
+  <p>
+    This website is made by <a href="https://github.com/1943055307?tab=repositories" target="_blank">LTW</a>
+    and WYS from <a href="https://www.scu.edu.cn/" target = "_blank">SCU</a>.
+  </p>
+  <p>
+    Sincere thanks to <a href="https://oier.baoshuo.dev/" target="_blank">OIerDb</a> and <a href="https://board.xcpcio.com/" target="_blank">Board-XCPCIO</a>.
+  </p>
+</footer>
+</html>

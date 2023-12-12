@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ACMERDB</title>
+  <link rel="stylesheet" type="text/css" href="{{ css_file }}">
+</head>
+
+<body>
+  <div class="div-flex">
+    <div class="left-images">
+      <a href="/">
+        <img src="/static/pic/icpc-logo.png" />
+      </a> 
+      <a href="https://www.scu.edu.cn/">
+        <img src="/static/pic/scu.png" />
+      </a>
+    </div>
+    <nav class="center-links">
+      <a href="/players">选手</a>
+      <a href="/matches">比赛</a>
+      <a href="/schools">学校</a>
+      <a href="/teams">队伍</a>
+      <a href="/coaches">教练</a>
+    </nav>
+  </div>
+  
+  
+  <div style="padding: 1.5rem 1.5rem 1.5rem">
+    <h1>
+      Welcome to ACMERDB
+    </h1>
+    <p>
+      ACMERDB is a database for ACMER
+    </p>
+    <p>
+      Start exploring the database by entering your search criteria below:
+    </p>
+      <form action="/" method="POST">
+        <input type="text" name="input_text" placeholder="Input the name">
+        <input type="submit" value="Search">
+      </form>
+      {% if success == 1%}
+<h2>
+   Choose the ACMer you want to search:
+</h2>
+
+{% for text in input_text %}
+  <p class="student-info">
+    {{ text.StudentName }} from {{ text.UniversityName }}
+    <button class="button-style" onclick="outputText(this.previousSibling.textContent)">Find</button>
+  </p>
+  <br>
+{% endfor %}
+
+
+<script>
+  function outputText(text) {
+    fetch('/find', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({ 'text': text })
+    })
+    .then(response => response.json())
+    .then(data => {
+      if (data.success) {
+        window.location.href = '/result'; // 重定向到result.html页面
+      } else {
+        alert('No results found!');
+      }
+    })
+    .catch(error => {
+      console.error('Error:', error);
+    });
+  }
+</script>
+
+
+{% endif %}
+  <br>
+    {% if success == 2%}
+    <h2>
+      No Results!
+    </h2>
+    {% endif %}
+
+
+  </div>
+  <footer class="c-footer">
+    <p>
+      This website is made by <a href="https://github.com/1943055307?tab=repositories" target="_blank">LTW</a>
+      and WYS from <a href="https://www.scu.edu.cn/" target = "_blank">SCU</a>.
+    </p>
+    <p>
+      Sincere thanks to <a href="https://oier.baoshuo.dev/" target="_blank">OIerDb</a> and <a href="https://board.xcpcio.com/" target="_blank">Board-XCPCIO</a>.
+    </p>
+  </footer>
+  
+</body>
+</html>

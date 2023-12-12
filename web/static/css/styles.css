@@ -1,0 +1,249 @@
+.div-flex {
+  display: flex;
+  align-items: flex-start; /* 保持图片在顶部 */
+  justify-content: space-between; /* 在子元素之间提供空间 */
+  background-color: rgb(211, 211, 211); /* 轻灰色背景 */
+  padding: 1em; /* 内边距 */
+}
+
+
+/* 图片容器样式 */
+.left-images {
+  margin-right: auto; /* 将图片推向左侧 */
+}
+
+/* 图片样式 */
+.div-flex img {
+  margin-right: 1em;
+  width: 150px;
+  height: 150px;
+}
+
+.center-links {
+  display: flex;
+  justify-content: center; /* 中心对齐链接 */
+  background-color: rgb(211, 211, 211); /* 导航背景颜色与整体背景相同 */
+  flex-grow: 1; /* 允许容器根据需要扩展 */
+  margin-top: 40px;
+  width: 200px;
+}
+
+/* 重置链接颜色 */
+a:link, a:visited {
+  color: rgb(25, 25, 46); /* 未访问链接的颜色 */
+  text-decoration: none; /* 去除下划线 */
+}
+
+/* 鼠标悬停和激活状态的样式 */
+a:hover {
+  color: #7b7777; /* 鼠标悬停时的颜色 */
+  text-decoration: underline; /* 添加下划线 */
+}
+
+a:active {
+  color: rgb(155, 132, 132); /* 鼠标点击时的颜色 */
+}
+
+/* 自定义样式 */
+a {
+  font-weight: bold; /* 字体加粗 */
+  font-size: 16px; /* 字体大小 */
+}
+
+/* 重置链接颜色 */
+b:link, b:visited {
+  color: rgb(25, 25, 46); /* 未访问链接的颜色 */
+  text-decoration: none; /* 去除下划线 */
+}
+
+/* 鼠标悬停和激活状态的样式 */
+b:hover {
+  color: #7b7777; /* 鼠标悬停时的颜色 */
+  text-decoration: underline; /* 添加下划线 */
+  cursor: pointer
+}
+
+b:active {
+  color: rgb(155, 132, 132); /* 鼠标点击时的颜色 */
+}
+
+/* 自定义样式 */
+b {
+  font-weight: bold; /* 字体加粗 */
+  font-size: inherit; /* 字体大小 */
+}
+
+
+/* 链接样式 */
+.center-links a {
+  text-decoration: none; /* 移除下划线 */
+  color: #333; /* 深灰色文本 */
+  margin: 0 60px; /* 左右边距增加到 60px */
+  font-weight: bold; /* 字体加粗 */
+  font-size: 1.6em; /* 增大字体大小 */
+  border: 2px solid #5c6167; /* 添加蓝色边框 */
+  padding: 15px 30px; /* 内边距 */
+  border-radius: 5px; /* 边框圆角 */
+  transition: all 0.3s ease; /* 平滑过渡效果 */
+}
+
+/* 链接悬停效果 */
+.center-links a:hover {
+  color: #fff; /* 悬停时文本颜色变为白色 */
+  background-color: #4f6073; /* 悬停时背景颜色变为蓝色 */
+  border-color: #4a5a6c; /* 悬停时边框颜色变深 */
+}
+
+.button-style {
+  font-family: 'Times New Roman';
+  src: local('Times New Roman');
+   unicode-range: U+0041-005A, U+0061-007A; /* 英文字母的Unicode范围 */
+  text-decoration: none; /* 移除下划线 */
+  color: #333; /* 深灰色文本 */
+  font-weight: bold; /* 字体加粗 */
+  border: 2px solid #5c6167; /* 添加边框 */
+  padding: 5px 10px; /* 内边距 */
+  border-radius: 5px; /* 边框圆角 */
+  transition: all 0.3s ease; /* 平滑过渡效果 */
+  background-color: transparent; /* 透明背景 */
+  cursor: pointer; /* 指针样式 */
+  float: right; 
+}
+
+.button-style:hover {
+  color: #fff; /* 悬停时文本颜色变为白色 */
+  background-color: #4f6073; /* 悬停时背景颜色 */
+  border-color: #4a5a6c; /* 悬停时边框颜色 */
+}
+
+
+.c-footer {
+  display: flex;
+  flex-direction: column; /* 将子元素垂直排列 */
+  align-items: center;
+  height: 100px;
+  font-size: 16px;
+}
+
+  .c-footer p {
+   margin: 0; /* 重置段落的外边距 */
+   line-height: 1.5; /* 设置段落的行高，控制段落之间的间距 */
+    margin-bottom: 10px; /* 添加段落之间的底部间距 */
+  }
+
+
+
+  @font-face {
+    font-family: 'Times New Roman';
+    src: local('Times New Roman');
+    unicode-range: U+0041-005A, U+0061-007A; /* 英文字母的Unicode范围 */
+  }
+
+  @font-face {
+    font-family: '华文中宋';
+    src: local('华文中宋');
+    unicode-range: U+4E00-9FFF; /* 汉字的Unicode范围 */
+  }
+
+  body {
+    font-family: 'Times New Roman', '华文中宋', sans-serif;
+    background-color: rgb(211, 211, 211);
+  }
+
+  /* 更改输入框的样式 */
+  input[type="text"] {
+    /* 添加样式属性 */
+    width: 500px; /* 设置输入框的宽度 */
+    height: 30px; /* 设置输入框的高度 */
+    padding: 5px; /* 设置输入框的内边距 */
+    font-size: 25px; /* 设置输入框的字体大小 */
+    font-family: STZhongsong;
+    border: 1px solid #7f9418; /* 设置输入框的边框样式 */
+    border-radius: 4px; /* 设置输入框的边框圆角 */
+  }
+
+  /* 更改按钮的样式 */
+  input[type="submit"] {
+    /* 添加样式属性 */
+    padding: 10px 20px; /* 设置按钮的内边距 */
+    font-size: 20px; /* 设置按钮的字体大小 */
+    background-color: #4CAF50; /* 设置按钮的背景颜色 */
+    color: white; /* 设置按钮的文本颜色 */
+    border: none; /* 移除按钮的边框 */
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 10px; /* 设置按钮的边框圆角 */
+    cursor: pointer; /* 设置鼠标悬停时的光标样式 */
+  }
+
+  .outer-container {
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+  }
+
+  .inner-container {
+    border: 1px solid #ccc;
+    padding: 5px;
+    margin-bottom: 5px;
+    background-color: #f9f9f9;
+    border-radius: 3px;
+  }
+
+  .gold {
+    color: gold;
+  }
+
+  .silver {
+    color: silver;
+  }
+
+  .brown {
+    color: brown;
+  }
+
+.student-info {
+  border: 1px solid black;
+    padding: 20px;
+    margin-bottom: 2px;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+}
+
+.pagination {
+  padding: 10px; /* 内边距 */
+  margin: 10px 0; /* 上下外边距为10px，左右为0 */
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  width: auto; /* 宽度自动调整 */
+}
+
+/* 链接悬停效果 */
+.pagination li:hover {
+  color: #fff; /* 悬停时文本颜色变为白色 */
+  background-color: #4f6073; /* 悬停时背景颜色变为蓝色 */
+  border-color: #4a5a6c; /* 悬停时边框颜色变深 */
+}
+
+.pagination li {
+  text-decoration: none; /* 移除下划线 */
+  color: #333; /* 深灰色文本 */
+  margin: 0 5px;
+  border: 2px solid #5c6167; /* 添加蓝色边框 */
+  padding: 15px 30px; /* 内边距 */
+  border-radius: 5px; /* 边框圆角 */
+  transition: all 0.3s ease; /* 平滑过渡效果 */
+  margin: 0 5px; /* 页码项之间的间距 */
+  cursor: pointer; 
+  padding: 3px 6px; /* 页码项的内边距，为了更好的视觉效果 */
+}
+
+.pagination li.active {
+  font-weight: bold; /* 当前页面加粗显示 */
+}
+
+.medals {
+  float: right;
+}

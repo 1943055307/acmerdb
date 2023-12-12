@@ -1,0 +1,3208 @@
+{
+    "1": {
+        "coach": "安健",
+        "university": "西安交通大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "2": {
+        "coach": "鲍玉斌",
+        "university": "东北大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "3": {
+        "coach": "毕方明",
+        "university": "中国矿业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "4": {
+        "coach": "蔡明伦",
+        "university": "浙大宁波理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "5": {
+        "coach": "蔡尚真",
+        "university": "宁波财经学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "6": {
+        "coach": "蔡天星",
+        "university": "深圳技术大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "7": {
+        "coach": "蔡欣华",
+        "university": "西安理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "8": {
+        "coach": "曹力",
+        "university": "合肥工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "9": {
+        "coach": "曹霑懋",
+        "university": "华南师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "10": {
+        "coach": "曾雪强",
+        "university": "江西师范大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+    },
+    "11": {
+        "coach": "曾志宏",
+        "university": "龙岩学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "12": {
+        "coach": "柴本成",
+        "university": "浙江万里学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "13": {
+        "coach": "陈爱国",
+        "university": "江西财经大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "14": {
+        "coach": "陈传祥",
+        "university": "东莞理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "15": {
+        "coach": "陈灯",
+        "university": "武汉工程大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "16": {
+        "coach": "程立",
+        "university": "河南工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "17": {
+        "coach": "陈广明",
+        "university": "嘉应学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "18": {
+        "coach": "陈俊颖",
+        "university": "华南理工大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+    },
+    "19": {
+        "coach": "陈可",
+        "university": "南阳理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "20": {
+        "coach": "陈磊",
+        "university": "宁波职业技术学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "21": {
+        "coach": "陈荣钦",
+        "university": "台州学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "22": {
+        "coach": "陈翔",
+        "university": "南通大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "23": {
+        "coach": "陈晓梅",
+        "university": "广东外语外贸大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "24": {
+        "coach": "陈小森",
+        "university": "中国传媒大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+    },
+    "25": {
+        "coach": "陈晓竹",
+        "university": "中国计量大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "26": {
+        "coach": "陈暄",
+        "university": "浙江工业职业技术学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "27": {
+        "coach": "陈琰宏",
+        "university": "浙江财经大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 3
+    },
+    "28": {
+        "coach": "陈叶芳",
+        "university": "宁波大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 5
+    },
+    "29": {
+        "coach": "陈寅",
+        "university": "华南师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "30": {
+        "coach": "陈英",
+        "university": "南昌航空大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "31": {
+        "coach": "陈宇",
+        "university": "东北林业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "32": {
+        "coach": "陈再良",
+        "university": "中南大学",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 1
+    },
+    "33": {
+        "coach": "陈志",
+        "university": "南京邮电大学",
+        "gold": 1,
+        "silver": 7,
+        "bronze": 10
+    },
+    "34": {
+        "coach": "陈智",
+        "university": "西南财经大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "35": {
+        "coach": "崔克彬",
+        "university": "华北电力大学（保定）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "36": {
+        "coach": "单振宇",
+        "university": "杭州师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 7
+    },
+    "37": {
+        "coach": "邓广慧",
+        "university": "长沙理工大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 3
+    },
+    "38": {
+        "coach": "邓佳",
+        "university": "武汉理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "39": {
+        "coach": "邓泽林",
+        "university": "长沙理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "40": {
+        "coach": "丁林花",
+        "university": "临沂大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "41": {
+        "coach": "丁盟",
+        "university": "河北师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "42": {
+        "coach": "董开坤",
+        "university": "哈尔滨工业大学（威海）",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 5
+    },
+    "43": {
+        "coach": "董文永",
+        "university": "武汉大学",
+        "gold": 1,
+        "silver": 12,
+        "bronze": 7
+    },
+    "44": {
+        "coach": "董文勇",
+        "university": "武汉大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "45": {
+        "coach": "董寅冬",
+        "university": "安徽农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "46": {
+        "coach": "窦尚孝",
+        "university": "山东大学（威海）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "47": {
+        "coach": "杜晨杰",
+        "university": "浙江万里学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "48": {
+        "coach": "杜广龙",
+        "university": "华南理工大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "49": {
+        "coach": "杜卿",
+        "university": "华南理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "50": {
+        "coach": "杜祥军",
+        "university": "青岛大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "51": {
+        "coach": "杜育根",
+        "university": "华东师范大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 3
+    },
+    "52": {
+        "coach": "房礼国",
+        "university": "战略支援部队信息工程大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "53": {
+        "coach": "方一向",
+        "university": "香港中文大学（深圳）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "54": {
+        "coach": "范江波",
+        "university": "中国石油大学（北京）",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 3
+    },
+    "55": {
+        "coach": "范龙飞",
+        "university": "中国民航大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "56": {
+        "coach": "费玉奎",
+        "university": "山东农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "57": {
+        "coach": "冯启龙",
+        "university": "中南大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "58": {
+        "coach": "冯时",
+        "university": "东北大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "59": {
+        "coach": "冯筠",
+        "university": "西北大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "60": {
+        "coach": "冯壮",
+        "university": "沈阳理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "61": {
+        "coach": "傅仰耿",
+        "university": "福州大学",
+        "gold": 0,
+        "silver": 11,
+        "bronze": 11
+    },
+    "62": {
+        "coach": "付莹",
+        "university": "北京理工大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 0
+    },
+    "63": {
+        "coach": "甘玲",
+        "university": "重庆邮电大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 3
+    },
+    "64": {
+        "coach": "高大利",
+        "university": "泉州师范学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "65": {
+        "coach": "高红雨",
+        "university": "北京工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "66": {
+        "coach": "高嘉伟",
+        "university": "山西大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "67": {
+        "coach": "高文宇",
+        "university": "广东财经大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "68": {
+        "coach": "高鹰",
+        "university": "广州大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0
+    },
+    "69": {
+        "coach": "耿耀君",
+        "university": "西北农林科技大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+    },
+    "70": {
+        "coach": "管希东",
+        "university": "江西理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "71": {
+        "coach": "郭崇双",
+        "university": "东北大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "72": {
+        "coach": "郭东伟",
+        "university": "吉林大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 4
+    },
+    "73": {
+        "coach": "郭栗",
+        "university": "哈尔滨工业大学（威海）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "74": {
+        "coach": "国林",
+        "university": "哈尔滨工程大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 9
+    },
+    "75": {
+        "coach": "郭庆林",
+        "university": "上海师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "76": {
+        "coach": "郭嵩山",
+        "university": "中山大学",
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0
+    },
+    "77": {
+        "coach": "郭新友",
+        "university": "浙大宁波理工学院",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 3
+    },
+    "78": {
+        "coach": "郭新友",
+        "university": "宁波理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "79": {
+        "coach": "郭一晶",
+        "university": "厦门大学嘉庚学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "80": {
+        "coach": "郭云镝",
+        "university": "深圳技术大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "81": {
+        "coach": "郭子超",
+        "university": "上海财经大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+    },
+    "82": {
+        "coach": "韩建民",
+        "university": "浙江师范大学",
+        "gold": 1,
+        "silver": 8,
+        "bronze": 1
+    },
+    "83": {
+        "coach": "韩姗姗",
+        "university": "浙江工业大学",
+        "gold": 2,
+        "silver": 5,
+        "bronze": 3
+    },
+    "84": {
+        "coach": "韩珊珊",
+        "university": "浙江工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "85": {
+        "coach": "韩先锋",
+        "university": "西南大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "86": {
+        "coach": "韩希先",
+        "university": "哈尔滨工业大学（威海）",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0
+    },
+    "87": {
+        "coach": "郝晓枫",
+        "university": "西南交通大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "88": {
+        "coach": "贺冰琰",
+        "university": "集美大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "89": {
+        "coach": "何春香",
+        "university": "北京理工大学珠海学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "90": {
+        "coach": "何道敬",
+        "university": "哈尔滨工业大学（深圳）",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "91": {
+        "coach": "何琨",
+        "university": "华中科技大学",
+        "gold": 4,
+        "silver": 6,
+        "bronze": 5
+    },
+    "92": {
+        "coach": "贺再红",
+        "university": "湖南大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "93": {
+        "coach": "洪源",
+        "university": "北京科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "94": {
+        "coach": "侯向辉",
+        "university": "浙江工业大学",
+        "gold": 1,
+        "silver": 5,
+        "bronze": 5
+    },
+    "95": {
+        "coach": "黄栋",
+        "university": "华南农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "96": {
+        "coach": "黄瀚",
+        "university": "华南理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "97": {
+        "coach": "黄华",
+        "university": "北京交通大学",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 3
+    },
+    "98": {
+        "coach": "黄健",
+        "university": "成都信息工程大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "99": {
+        "coach": "黄继平",
+        "university": "重庆理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "100": {
+        "coach": "黄娟",
+        "university": "长沙学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "101": {
+        "coach": "黄龙辉",
+        "university": "北京化工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "102": {
+        "coach": "黄龙军",
+        "university": "绍兴文理学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "103": {
+        "coach": "黄玮",
+        "university": "中国传媒大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "104": {
+        "coach": "黄伟",
+        "university": "吉首大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "105": {
+        "coach": "黄永锋",
+        "university": "东华大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 2
+    },
+    "106": {
+        "coach": "胡春玲",
+        "university": "合肥学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "107": {
+        "coach": "胡明晓",
+        "university": "温州大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "108": {
+        "coach": "胡永良",
+        "university": "台州学院",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0
+    },
+    "109": {
+        "coach": "胡毓励",
+        "university": "浙江工商大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "110": {
+        "coach": "蒋长根",
+        "university": "江西师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "111": {
+        "coach": "蒋敏",
+        "university": "江南大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "112": {
+        "coach": "蒋彦",
+        "university": "济南大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "113": {
+        "coach": "焦贤沛",
+        "university": "江西财经大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "114": {
+        "coach": "揭安全",
+        "university": "江西师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "115": {
+        "coach": "靳冰",
+        "university": "南阳理工学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "116": {
+        "coach": "金恩海",
+        "university": "哈尔滨理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 6
+    },
+    "117": {
+        "coach": "景国良",
+        "university": "江苏科技大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "118": {
+        "coach": "荆树旭",
+        "university": "长安大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "119": {
+        "coach": "金虎",
+        "university": "黑龙江大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "120": {
+        "coach": "金建勋",
+        "university": "浙江科技学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "121": {
+        "coach": "计培良",
+        "university": "湖州师范学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "122": {
+        "coach": "鞠传香",
+        "university": "山东理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "123": {
+        "coach": "琚洁慧",
+        "university": "浙江科技学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "124": {
+        "coach": "柯海丰",
+        "university": "浙大城市学院",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 5
+    },
+    "125": {
+        "coach": "兰鑫",
+        "university": "重庆大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 4
+    },
+    "126": {
+        "coach": "雷丽兰",
+        "university": "宜春学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "127": {
+        "coach": "雷晓艳",
+        "university": "周口师范学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "128": {
+        "coach": "冷芳玲",
+        "university": "东北大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "129": {
+        "coach": "梁冰",
+        "university": "大连理工大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 3
+    },
+    "130": {
+        "coach": "梁军",
+        "university": "华南师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "131": {
+        "coach": "梁雅丽",
+        "university": "南京邮电大学通达学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "132": {
+        "coach": "廖德钦",
+        "university": "成都信息工程大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "133": {
+        "coach": "廖明习",
+        "university": "武汉理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "134": {
+        "coach": "廖枝平",
+        "university": "湖南城市学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "135": {
+        "coach": "黎才茂",
+        "university": "海南大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "136": {
+        "coach": "李春生",
+        "university": "中国科学技术大学",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 0
+    },
+    "137": {
+        "coach": "李含光",
+        "university": "南京信息工程大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "138": {
+        "coach": "李浩腾",
+        "university": "浙江工商大学杭州商学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "139": {
+        "coach": "李恒武",
+        "university": "山东财经大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "140": {
+        "coach": "李宏博",
+        "university": "东北师范大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "141": {
+        "coach": "李泓澍",
+        "university": "广东工业大学揭阳校区",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "142": {
+        "coach": "李华",
+        "university": "长春理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "143": {
+        "coach": "李佳",
+        "university": "重庆大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 4
+    },
+    "144": {
+        "coach": "李钧",
+        "university": "杭州电子科技大学信息工程学院",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+    },
+    "145": {
+        "coach": "李磊",
+        "university": "河南工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "146": {
+        "coach": "李莉丽",
+        "university": "成都信息工程大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "147": {
+        "coach": "李闽溟",
+        "university": "香港城市大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+    },
+    "148": {
+        "coach": "林福平",
+        "university": "太原理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "149": {
+        "coach": "林瀚",
+        "university": "中山大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+    },
+    "150": {
+        "coach": "林华",
+        "university": "广东外语外贸大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "151": {
+        "coach": "林焕祥",
+        "university": "浙江科技学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "152": {
+        "coach": "林连南",
+        "university": "华南理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "153": {
+        "coach": "林文水",
+        "university": "厦门大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 9
+    },
+    "154": {
+        "coach": "林阳斌",
+        "university": "集美大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "155": {
+        "coach": "林永钢",
+        "university": "北京理工大学",
+        "gold": 3,
+        "silver": 5,
+        "bronze": 3
+    },
+    "156": {
+        "coach": "林志洁",
+        "university": "浙江科技学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "157": {
+        "coach": "李骞",
+        "university": "周口师范学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "158": {
+        "coach": "李强",
+        "university": "吉林大学",
+        "gold": 4,
+        "silver": 1,
+        "bronze": 4
+    },
+    "159": {
+        "coach": "李圣涛",
+        "university": "山东师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "160": {
+        "coach": "李顺新",
+        "university": "武汉科技大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 5
+    },
+    "161": {
+        "coach": "刘必雄",
+        "university": "福建农林大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "162": {
+        "coach": "刘春英",
+        "university": "杭州电子科技大学",
+        "gold": 9,
+        "silver": 10,
+        "bronze": 5
+    },
+    "163": {
+        "coach": "刘福泉",
+        "university": "浙江农林大学暨阳学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "164": {
+        "coach": "刘高军",
+        "university": "北方工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "165": {
+        "coach": "刘捷",
+        "university": "华南理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "166": {
+        "coach": "刘杰",
+        "university": "南华大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "167": {
+        "coach": "刘君瑞",
+        "university": "西北工业大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 3
+    },
+    "168": {
+        "coach": "刘利",
+        "university": "惠州学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "169": {
+        "coach": "刘淼",
+        "university": "吉林大学",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 2
+    },
+    "170": {
+        "coach": "刘明",
+        "university": "香港科技大学（广州）",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "171": {
+        "coach": "刘培顺",
+        "university": "中国海洋大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "172": {
+        "coach": "刘强",
+        "university": "成都树德中学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "173": {
+        "coach": "刘玮",
+        "university": "武汉工程大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "174": {
+        "coach": "刘伟",
+        "university": "无锡学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "175": {
+        "coach": "刘卫平",
+        "university": "中南民族大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "176": {
+        "coach": "刘卫平侯睿",
+        "university": "中南民族大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "177": {
+        "coach": "刘小锋",
+        "university": "东北大学",
+        "gold": 3,
+        "silver": 5,
+        "bronze": 6
+    },
+    "178": {
+        "coach": "刘晓光",
+        "university": "南开大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 3
+    },
+    "179": {
+        "coach": "刘晓红",
+        "university": "山东理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "180": {
+        "coach": "刘小莲",
+        "university": "河南理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "181": {
+        "coach": "刘小玲",
+        "university": "西南石油大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "182": {
+        "coach": "刘晓宁",
+        "university": "西北大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "183": {
+        "coach": "刘辛",
+        "university": "周口师范学院",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "184": {
+        "coach": "刘勇",
+        "university": "北京化工大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 6
+    },
+    "185": {
+        "coach": "刘振宇",
+        "university": "大连东软信息学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "186": {
+        "coach": "刘志杰",
+        "university": "北京科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "187": {
+        "coach": "李卫民",
+        "university": "上海大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "188": {
+        "coach": "李文彬",
+        "university": "湖南理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "189": {
+        "coach": "李晓华",
+        "university": "东北大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "190": {
+        "coach": "李晓明",
+        "university": "东北农业大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 5
+    },
+    "191": {
+        "coach": "李晓强",
+        "university": "上海大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "192": {
+        "coach": "李晔",
+        "university": "郑州轻工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "193": {
+        "coach": "李一鸣",
+        "university": "宁夏理工学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "194": {
+        "coach": "李源",
+        "university": "北方工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "195": {
+        "coach": "龙江",
+        "university": "昆山杜克大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "196": {
+        "coach": "龙军",
+        "university": "中南大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "197": {
+        "coach": "楼柯辰",
+        "university": "浙江工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "198": {
+        "coach": "陆东城",
+        "university": "浙江广厦建设职业技术大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "199": {
+        "coach": "卢家兴",
+        "university": "江西师范大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 0
+    },
+    "200": {
+        "coach": "鲁静轩",
+        "university": "北华大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "201": {
+        "coach": "陆坤",
+        "university": "大连理工大学",
+        "gold": 2,
+        "silver": 5,
+        "bronze": 4
+    },
+    "202": {
+        "coach": "罗国杰",
+        "university": "北京大学",
+        "gold": 16,
+        "silver": 4,
+        "bronze": 1
+    },
+    "203": {
+        "coach": "罗杰",
+        "university": "浙江中医药大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "204": {
+        "coach": "罗娜",
+        "university": "东北师范大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "205": {
+        "coach": "罗伟",
+        "university": "华侨大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+    },
+    "206": {
+        "coach": "罗迅",
+        "university": "湖南师范大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 4
+    },
+    "207": {
+        "coach": "罗讯",
+        "university": "湖南师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "208": {
+        "coach": "罗勇军",
+        "university": "华东理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "209": {
+        "coach": "鹿文鹏",
+        "university": "齐鲁工业大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 2
+    },
+    "210": {
+        "coach": "鹿旭东",
+        "university": "山东大学",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 2
+    },
+    "211": {
+        "coach": "卢瑶",
+        "university": "哈尔滨工业大学（深圳）",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "212": {
+        "coach": "卢云宏",
+        "university": "烟台大学",
+        "gold": 3,
+        "silver": 0,
+        "bronze": 0
+    },
+    "213": {
+        "coach": "吕刚",
+        "university": "合肥学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "214": {
+        "coach": "吕俊伟",
+        "university": "合肥工业大学宣城校区",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+    },
+    "215": {
+        "coach": "吕舒",
+        "university": "陕西科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "216": {
+        "coach": "马晨昊",
+        "university": "香港中文大学（深圳）",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 0
+    },
+    "217": {
+        "coach": "麥偉豪",
+        "university": "香港中文大學",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "218": {
+        "coach": "马骏",
+        "university": "南京大学",
+        "gold": 9,
+        "silver": 9,
+        "bronze": 9
+    },
+    "219": {
+        "coach": "马俊",
+        "university": "兰州大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "220": {
+        "coach": "毛玉萃",
+        "university": "大连大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "221": {
+        "coach": "马新娟",
+        "university": "山东理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "222": {
+        "coach": "孟实",
+        "university": "浙江工商大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "223": {
+        "coach": "牟永敏",
+        "university": "北京信息科技大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "224": {
+        "coach": "穆海伦",
+        "university": "杭州电子科技大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+    },
+    "225": {
+        "coach": "穆运峰",
+        "university": "燕山大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "226": {
+        "coach": "聂盼红",
+        "university": "常熟理工学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "227": {
+        "coach": "倪庆剑",
+        "university": "东南大学",
+        "gold": 6,
+        "silver": 3,
+        "bronze": 4
+    },
+    "228": {
+        "coach": "潘超",
+        "university": "长春工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "229": {
+        "coach": "潘广贞",
+        "university": "中北大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+    },
+    "230": {
+        "coach": "潘建国",
+        "university": "上海师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "231": {
+        "coach": "潘锦基",
+        "university": "南京信息工程大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0
+    },
+    "232": {
+        "coach": "潘理",
+        "university": "湖南理工学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "233": {
+        "coach": "潘文安",
+        "university": "香港中文大学（深圳）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "234": {
+        "coach": "潘勇浩",
+        "university": "四川农业大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+    },
+    "235": {
+        "coach": "潘雨青",
+        "university": "江苏大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "236": {
+        "coach": "彭冰",
+        "university": "北京化工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "237": {
+        "coach": "彭浩",
+        "university": "浙江师范大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "238": {
+        "coach": "彭涛",
+        "university": "武汉纺织大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "239": {
+        "coach": "钱丽萍",
+        "university": "北京建筑大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "240": {
+        "coach": "秦建斌",
+        "university": "深圳大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 6
+    },
+    "241": {
+        "coach": "邱俊乔",
+        "university": "香港城市大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "242": {
+        "coach": "丘凯伦",
+        "university": "广州大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "243": {
+        "coach": "邱晟",
+        "university": "浙江师范大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 0
+    },
+    "244": {
+        "coach": "曲大鹏",
+        "university": "辽宁大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "245": {
+        "coach": "曲志坚",
+        "university": "山东理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "246": {
+        "coach": "冉娟",
+        "university": "天津仁爱学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "247": {
+        "coach": "饶哲凡",
+        "university": "香港科技大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "248": {
+        "coach": "任淑霞",
+        "university": "天津工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "249": {
+        "coach": "尚俊平",
+        "university": "河南农业大学",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 4
+    },
+    "250": {
+        "coach": "沈海澜",
+        "university": "中南大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0
+    },
+    "251": {
+        "coach": "沈俊",
+        "university": "上海大学",
+        "gold": 1,
+        "silver": 6,
+        "bronze": 5
+    },
+    "252": {
+        "coach": "沈云付",
+        "university": "上海大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "253": {
+        "coach": "史继筠",
+        "university": "北京理工大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 8
+    },
+    "254": {
+        "coach": "石陆魁",
+        "university": "河北工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "255": {
+        "coach": "斯庆巴拉",
+        "university": "北华航天工业学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "256": {
+        "coach": "宋彪",
+        "university": "南京信息工程大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 0
+    },
+    "257": {
+        "coach": "宋炯",
+        "university": "浙江师范大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "258": {
+        "coach": "宋若鹏",
+        "university": "深圳北理莫斯科大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "259": {
+        "coach": "宋彦",
+        "university": "香港中文大学（深圳）",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "260": {
+        "coach": "宋友",
+        "university": "北京航空航天大学",
+        "gold": 13,
+        "silver": 11,
+        "bronze": 4
+    },
+    "261": {
+        "coach": "孙大烈",
+        "university": "哈尔滨工业大学",
+        "gold": 6,
+        "silver": 9,
+        "bronze": 10
+    },
+    "262": {
+        "coach": "孙广华",
+        "university": "浙江师范大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "263": {
+        "coach": "孙广中",
+        "university": "中国科学技术大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "264": {
+        "coach": "孙晶",
+        "university": "北方工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "265": {
+        "coach": "孙未未",
+        "university": "复旦大学",
+        "gold": 7,
+        "silver": 9,
+        "bronze": 4
+    },
+    "266": {
+        "coach": "孙晓明",
+        "university": "中国科学院大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 4
+    },
+    "267": {
+        "coach": "孙宣东",
+        "university": "广东工业大学",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 10
+    },
+    "268": {
+        "coach": "谭定英",
+        "university": "广州中医药大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "269": {
+        "coach": "唐博",
+        "university": "南方科技大学",
+        "gold": 6,
+        "silver": 7,
+        "bronze": 7
+    },
+    "270": {
+        "coach": "唐琳琳",
+        "university": "哈尔滨工业大学（深圳）",
+        "gold": 2,
+        "silver": 1,
+        "bronze": 10
+    },
+    "271": {
+        "coach": "唐远新",
+        "university": "哈尔滨理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "272": {
+        "coach": "谭顺华",
+        "university": "西南科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "273": {
+        "coach": "田亮",
+        "university": "河北师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "274": {
+        "coach": "田霖",
+        "university": "成都东软学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "275": {
+        "coach": "童孟军",
+        "university": "浙江农林大学",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 5
+    },
+    "276": {
+        "coach": "童先群",
+        "university": "闽南师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "277": {
+        "coach": "屠可伟",
+        "university": "上海科技大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 1
+    },
+    "278": {
+        "coach": "屠添翼",
+        "university": "湖南文理学院",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0
+    },
+    "279": {
+        "coach": "万波",
+        "university": "西安电子科技大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+    },
+    "280": {
+        "coach": "王灿",
+        "university": "浙江大学",
+        "gold": 21,
+        "silver": 6,
+        "bronze": 1
+    },
+    "281": {
+        "coach": "王传胜",
+        "university": "暨南大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+    },
+    "282": {
+        "coach": "王传胜",
+        "university": "暨南大学（番禺校区）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "283": {
+        "coach": "王春平",
+        "university": "浙江工业大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 1
+    },
+    "284": {
+        "coach": "王国英",
+        "university": "浙江农林大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "285": {
+        "coach": "王和兴",
+        "university": "东北大学秦皇岛分校",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 9
+    },
+    "286": {
+        "coach": "王宏欣",
+        "university": "哈尔滨商业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "287": {
+        "coach": "王冀",
+        "university": "西北工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "288": {
+        "coach": "王建芳",
+        "university": "河南理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "289": {
+        "coach": "王建林",
+        "university": "河南大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "290": {
+        "coach": "王婧",
+        "university": "战略支援部队信息工程大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "291": {
+        "coach": "王敬东",
+        "university": "东北电力大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "292": {
+        "coach": "王军",
+        "university": "沈阳化工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "293": {
+        "coach": "王克朝",
+        "university": "哈尔滨学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "294": {
+        "coach": "王琳",
+        "university": "西南民族大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "295": {
+        "coach": "王龙翔",
+        "university": "西安交通大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 3
+    },
+    "296": {
+        "coach": "王琼",
+        "university": "南京师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "297": {
+        "coach": "王睿",
+        "university": "长春理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 5
+    },
+    "298": {
+        "coach": "王硕",
+        "university": "齐齐哈尔大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "299": {
+        "coach": "王晓峰",
+        "university": "武汉科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "300": {
+        "coach": "王小凤",
+        "university": "西北大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "301": {
+        "coach": "汪小平",
+        "university": "电子科技大学",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 3
+    },
+    "302": {
+        "coach": "王喜凤",
+        "university": "安徽工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "303": {
+        "coach": "王雅娜",
+        "university": "沈阳化工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "304": {
+        "coach": "王烨",
+        "university": "河北师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "305": {
+        "coach": "王艺源",
+        "university": "东北师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "306": {
+        "coach": "王宇华",
+        "university": "哈尔滨工程大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+    },
+    "307": {
+        "coach": "汪云海",
+        "university": "山东大学",
+        "gold": 2,
+        "silver": 9,
+        "bronze": 2
+    },
+    "308": {
+        "coach": "王智",
+        "university": "西南大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+    },
+    "309": {
+        "coach": "王子民",
+        "university": "桂林电子科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 6
+    },
+    "310": {
+        "coach": "万海",
+        "university": "中山大学",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 0
+    },
+    "311": {
+        "coach": "闻育",
+        "university": "中国计量大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 7
+    },
+    "312": {
+        "coach": "吴昊",
+        "university": "湖南大学",
+        "gold": 4,
+        "silver": 1,
+        "bronze": 2
+    },
+    "313": {
+        "coach": "吴璟莉",
+        "university": "广西师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "314": {
+        "coach": "吴磊",
+        "university": "电子科技大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+    },
+    "315": {
+        "coach": "吴敏敏",
+        "university": "莆田学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "316": {
+        "coach": "吴水秀",
+        "university": "江西师范大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "317": {
+        "coach": "吴舜歆",
+        "university": "电子科技大学中山学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "318": {
+        "coach": "吴桐",
+        "university": "西北大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "319": {
+        "coach": "吴闻",
+        "university": "福建师范大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 2
+    },
+    "320": {
+        "coach": "邬晓钧",
+        "university": "清华大学",
+        "gold": 18,
+        "silver": 6,
+        "bronze": 2
+    },
+    "321": {
+        "coach": "吴迎笑",
+        "university": "杭州电子科技大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 1
+    },
+    "322": {
+        "coach": "吴云鹏",
+        "university": "郑州大学",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 3
+    },
+    "323": {
+        "coach": "吴振寰",
+        "university": "山东科技大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "324": {
+        "coach": "夏军宝",
+        "university": "中国地质大学（北京）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "325": {
+        "coach": "冼楚华",
+        "university": "华南理工大学",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 6
+    },
+    "326": {
+        "coach": "向德生",
+        "university": "湖南科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "327": {
+        "coach": "肖春芸",
+        "university": "华东师范大学",
+        "gold": 4,
+        "silver": 5,
+        "bronze": 4
+    },
+    "328": {
+        "coach": "肖德成",
+        "university": "西南科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "329": {
+        "coach": "肖进杰",
+        "university": "山东工商学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "330": {
+        "coach": "肖瑞",
+        "university": "湖北中医药大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "331": {
+        "coach": "肖如良",
+        "university": "福建师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "332": {
+        "coach": "肖巍",
+        "university": "长春工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "333": {
+        "coach": "夏勇",
+        "university": "哈尔滨工业大学（威海）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "334": {
+        "coach": "谢杰伟",
+        "university": "南昌理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "335": {
+        "coach": "谢季峰",
+        "university": "西南石油大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "336": {
+        "coach": "谢彦麒",
+        "university": "厦门理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "337": {
+        "coach": "谢益武",
+        "university": "大连海事大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "338": {
+        "coach": "谢勇",
+        "university": "湘潭大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 5
+    },
+    "339": {
+        "coach": "熊焕亮",
+        "university": "江西农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "340": {
+        "coach": "宣江华",
+        "university": "宁波工程学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "341": {
+        "coach": "徐本柱",
+        "university": "合肥工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "342": {
+        "coach": "徐承志",
+        "university": "湖北工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "343": {
+        "coach": "徐恩友",
+        "university": "杭州电子科技大学",
+        "gold": 2,
+        "silver": 0,
+        "bronze": 0
+    },
+    "344": {
+        "coach": "徐宏喆",
+        "university": "西安交通大学",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 2
+    },
+    "345": {
+        "coach": "徐弘喆",
+        "university": "西安交通大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "346": {
+        "coach": "徐洪珍",
+        "university": "东华理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "347": {
+        "coach": "许华婷",
+        "university": "北京交通大学",
+        "gold": 3,
+        "silver": 1,
+        "bronze": 2
+    },
+    "348": {
+        "coach": "许华婷,黄华",
+        "university": "北京交通大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 1
+    },
+    "349": {
+        "coach": "徐辉",
+        "university": "黑龙江大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "350": {
+        "coach": "徐晶",
+        "university": "贵州大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "351": {
+        "coach": "徐龙琴",
+        "university": "仲恺农业工程学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "352": {
+        "coach": "徐鹏飞",
+        "university": "北京师范大学",
+        "gold": 3,
+        "silver": 3,
+        "bronze": 7
+    },
+    "353": {
+        "coach": "徐艳艳",
+        "university": "北京林业大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 2
+    },
+    "354": {
+        "coach": "徐勇",
+        "university": "四川师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "355": {
+        "coach": "闫超",
+        "university": "曲阜师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "356": {
+        "coach": "杨春明",
+        "university": "西南科技大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 6
+    },
+    "357": {
+        "coach": "杨丰玉",
+        "university": "南昌航空大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "358": {
+        "coach": "杨建锋",
+        "university": "西北大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "359": {
+        "coach": "杨骏",
+        "university": "乐山师范学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "360": {
+        "coach": "杨磊",
+        "university": "华南农业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "361": {
+        "coach": "杨莉萍",
+        "university": "华中农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "362": {
+        "coach": "杨梅",
+        "university": "西南石油大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "363": {
+        "coach": "杨鹏",
+        "university": "电子科技大学",
+        "gold": 4,
+        "silver": 3,
+        "bronze": 1
+    },
+    "364": {
+        "coach": "杨书新",
+        "university": "江西理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "365": {
+        "coach": "杨思蓓",
+        "university": "上海科技大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "366": {
+        "coach": "杨卫东",
+        "university": "河南工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "367": {
+        "coach": "杨文嘉",
+        "university": "中国矿业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "368": {
+        "coach": "杨绪兵",
+        "university": "南京林业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "369": {
+        "coach": "杨亚",
+        "university": "北京邮电大学",
+        "gold": 5,
+        "silver": 12,
+        "bronze": 10
+    },
+    "370": {
+        "coach": "阎红灿",
+        "university": "华北理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "371": {
+        "coach": "叶晨",
+        "university": "同济大学",
+        "gold": 2,
+        "silver": 7,
+        "bronze": 9
+    },
+    "372": {
+        "coach": "叶飞",
+        "university": "哈尔滨理工大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+    },
+    "373": {
+        "coach": "叶海荣",
+        "university": "浙江理工大学",
+        "gold": 1,
+        "silver": 5,
+        "bronze": 6
+    },
+    "374": {
+        "coach": "叶俊民",
+        "university": "华中师范大学",
+        "gold": 1,
+        "silver": 4,
+        "bronze": 4
+    },
+    "375": {
+        "coach": "叶荣华",
+        "university": "浙江师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "376": {
+        "coach": "尹爱华",
+        "university": "江西财经大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "377": {
+        "coach": "尹良泽",
+        "university": "国防科技大学",
+        "gold": 0,
+        "silver": 7,
+        "bronze": 4
+    },
+    "378": {
+        "coach": "尤枫",
+        "university": "北京化工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "379": {
+        "coach": "袁宝库",
+        "university": "北京邮电大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "380": {
+        "coach": "袁灏",
+        "university": "山东大学（威海）",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "381": {
+        "coach": "于海雯",
+        "university": "南昌大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 6
+    },
+    "382": {
+        "coach": "喻剑",
+        "university": "同济大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+    },
+    "383": {
+        "coach": "于娟",
+        "university": "浙江师范大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0
+    },
+    "384": {
+        "coach": "余腊生",
+        "university": "中南大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "385": {
+        "coach": "余立功",
+        "university": "南京理工大学",
+        "gold": 2,
+        "silver": 6,
+        "bronze": 4
+    },
+    "386": {
+        "coach": "喻梅",
+        "university": "天津大学",
+        "gold": 1,
+        "silver": 9,
+        "bronze": 7
+    },
+    "387": {
+        "coach": "于鹏",
+        "university": "中国传媒大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "388": {
+        "coach": "于庆梅",
+        "university": "上海海洋大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "389": {
+        "coach": "于瑞国",
+        "university": "天津大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 0
+    },
+    "390": {
+        "coach": "喻琇瑛",
+        "university": "西南交通大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 3
+    },
+    "391": {
+        "coach": "俞勇",
+        "university": "上海交通大学",
+        "gold": 15,
+        "silver": 3,
+        "bronze": 0
+    },
+    "392": {
+        "coach": "余勇",
+        "university": "上海交通大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+    },
+    "393": {
+        "coach": "俞勇",
+        "university": "香港中文大學",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "394": {
+        "coach": "詹锋",
+        "university": "广西大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 4
+    },
+    "395": {
+        "coach": "张驰",
+        "university": "浙江育英职业技术学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "396": {
+        "coach": "张锋",
+        "university": "中国地质大学（武汉）",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "397": {
+        "coach": "张广梅",
+        "university": "山东农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "398": {
+        "coach": "张洪豪",
+        "university": "天津理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "399": {
+        "coach": "张萌洁",
+        "university": "电子科技大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 2
+    },
+    "400": {
+        "coach": "张培欣",
+        "university": "河北师范大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "401": {
+        "coach": "张庆",
+        "university": "集美大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "402": {
+        "coach": "张勤健",
+        "university": "北京大学",
+        "gold": 4,
+        "silver": 2,
+        "bronze": 0
+    },
+    "403": {
+        "coach": "张瑞全",
+        "university": "青岛科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "404": {
+        "coach": "张世骐",
+        "university": "中国人民大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "405": {
+        "coach": "张世周",
+        "university": "西北工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "406": {
+        "coach": "张淑平",
+        "university": "西安电子科技大学",
+        "gold": 1,
+        "silver": 7,
+        "bronze": 3
+    },
+    "407": {
+        "coach": "张卫星",
+        "university": "郑州大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "408": {
+        "coach": "张先伟",
+        "university": "山东理工大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 2
+    },
+    "409": {
+        "coach": "张小峰",
+        "university": "鲁东大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "410": {
+        "coach": "张小健",
+        "university": "深圳大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 6
+    },
+    "411": {
+        "coach": "张晓丽",
+        "university": "昆明理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "412": {
+        "coach": "张秀伟",
+        "university": "西北工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "413": {
+        "coach": "张学辉",
+        "university": "中国石油大学（华东）",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+    },
+    "414": {
+        "coach": "张雪洁",
+        "university": "河海大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "415": {
+        "coach": "张严",
+        "university": "南京林业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "416": {
+        "coach": "张延红",
+        "university": "浙江万里学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "417": {
+        "coach": "张亚涛",
+        "university": "山东大学（威海）",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "418": {
+        "coach": "张晔",
+        "university": "南昌航空大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "419": {
+        "coach": "章英",
+        "university": "华中农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "420": {
+        "coach": "张义青",
+        "university": "华南农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "421": {
+        "coach": "张泳",
+        "university": "浙大城市学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "422": {
+        "coach": "张玉清",
+        "university": "中国地质大学（北京）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "423": {
+        "coach": "张震",
+        "university": "暨南大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 0
+    },
+    "424": {
+        "coach": "张志梅",
+        "university": "青岛大学",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 3
+    },
+    "425": {
+        "coach": "张自力",
+        "university": "武汉纺织大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "426": {
+        "coach": "张子臻",
+        "university": "中山大学",
+        "gold": 4,
+        "silver": 4,
+        "bronze": 0
+    },
+    "427": {
+        "coach": "赵冬冬",
+        "university": "武汉理工大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 4
+    },
+    "428": {
+        "coach": "赵建平",
+        "university": "长春理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "429": {
+        "coach": "赵金伟",
+        "university": "西安理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "430": {
+        "coach": "赵雷",
+        "university": "苏州大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 3
+    },
+    "431": {
+        "coach": "赵鹏泽",
+        "university": "信阳农林学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "432": {
+        "coach": "赵睿",
+        "university": "广州大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "433": {
+        "coach": "赵义霞",
+        "university": "惠州学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "434": {
+        "coach": "郑翠玲",
+        "university": "集美大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "435": {
+        "coach": "郑关胜",
+        "university": "南京信息工程大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 5
+    },
+    "436": {
+        "coach": "郑金龙",
+        "university": "常熟理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "437": {
+        "coach": "郑琪",
+        "university": "广东外语外贸大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "438": {
+        "coach": "郑忠龙",
+        "university": "浙江师范大学",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 0
+    },
+    "439": {
+        "coach": "钟鏸",
+        "university": "肇庆学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "440": {
+        "coach": "钟勇",
+        "university": "佛山科学技术学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "441": {
+        "coach": "周春樵",
+        "university": "上海理工大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 1
+    },
+    "442": {
+        "coach": "周刚",
+        "university": "信息工程大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "443": {
+        "coach": "周健",
+        "university": "安徽大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "444": {
+        "coach": "周娟",
+        "university": "华东交通大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "445": {
+        "coach": "周世平",
+        "university": "烟台大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "446": {
+        "coach": "周卫祥",
+        "university": "上海海事大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "447": {
+        "coach": "周晓琳",
+        "university": "北京化工大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+    },
+    "448": {
+        "coach": "周绪川",
+        "university": "西南民族大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "449": {
+        "coach": "周治国",
+        "university": "东北师范大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 3
+    },
+    "450": {
+        "coach": "朱丽达",
+        "university": "华中农业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "451": {
+        "coach": "朱丽华",
+        "university": "安阳工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "452": {
+        "coach": "朱青",
+        "university": "中国人民大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 0
+    },
+    "453": {
+        "coach": "祝胜林",
+        "university": "华南农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "454": {
+        "coach": "朱晓旭",
+        "university": "苏州大学",
+        "gold": 3,
+        "silver": 6,
+        "bronze": 0
+    },
+    "455": {
+        "coach": "朱云",
+        "university": "河海大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "456": {
+        "coach": "邹春然",
+        "university": "南京航空航天大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 3
+    },
+    "457": {
+        "coach": "邹会来",
+        "university": "浙江机电职业技术学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "458": {
+        "coach": "左劼",
+        "university": "四川大学",
+        "gold": 2,
+        "silver": 14,
+        "bronze": 6
+    }
+}

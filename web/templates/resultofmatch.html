@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>RESULT</title>
+  <link rel="stylesheet" type="text/css" href="{{ css_file }}">
+</head>
+<body>
+  <div class="div-flex">
+    <div class="left-images">
+      <a href="/">
+        <img src="/static/pic/icpc-logo.png" />
+      </a> 
+      <a href="https://www.scu.edu.cn/">
+        <img src="/static/pic/scu.png" />
+      </a>
+    </div>
+    <nav class="center-links">
+      <a href="/players">选手</a>
+      <a href="/matches">比赛</a>
+      <a href="/schools">学校</a>
+      <a href="/teams">队伍</a>
+      <a href="/coaches">教练</a>
+    </nav>
+  </div>
+  
+  <h1>Result of {{ result_text }} on {{ date }}</h1>
+  <form action="/resultofmatch" method="POST">
+    <input type="text" name="input_text" placeholder="Input the name">
+    <input type="hidden" name="match_name" value={{ result_text }}>
+    <input type="submit" value="Search">
+  </form>
+  <div>
+    {% for team in Res %}
+    
+    <div class="inner-container">
+        <p>
+            {% if team.Medal == 'Gold' %}
+              <img src="/static/pic/gold_b.png" style="width: 20px; height: 30px;">
+            {% endif %}
+            {% if team.Medal == 'Silver' %}
+              <img src="/static/pic/silver_b.png" style="width: 20px; height: 30px;">
+            {% endif %}
+            {% if team.Medal == 'Bronze' %}
+              <img src="/static/pic/bronze_b.png" style="width: 20px; height: 30px;">
+            {% endif %}
+	    <span style="color:
+              {% if team.Medal == 'Gold' %}
+                gold
+              {% elif team.Medal == 'Silver' %}
+                silver
+              {% elif team.Medal == 'Bronze' %}
+                brown
+              {% endif %}">
+              {{ team.Medal }}
+            </span>
+	    <span style="color:
+              {% if team.Medal == 'Gold' %}
+                gold
+              {% elif team.Medal == 'Silver' %}
+                silver
+              {% elif team.Medal == 'Bronze' %}
+                brown
+              {% endif %}">
+              rank: {{ team.rank }}
+	     </span>
+            team: <a href="#" onclick="writeTeamAndRedirect('{{ team.TeamName }} from {{ team.University }}')">{{ team.TeamName }}</a>  From  <a href="#" onclick="writeSchoolAndRedirect('{{ team.University }}')">{{ team.University }}</a>   members:    
+            {% for i in range(team.TeammateNumber) %}
+            <a href="#" onclick="writeNameAndRedirect('{{ team.Teammate[i].TeammateName }} from {{ team.University }}')">{{ team.Teammate[i].TeammateName }}</a>   
+            {% endfor %}
+            coach: {{ team.coach }}
+            </p>
+    </div>
+    {% endfor %}
+  </div>
+  <script>
+    function writeTeamAndRedirect(name) {
+        fetch('/write-team', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ teamName: name }),
+        })
+        .then(response => {
+            if (response.ok) {
+                window.location.href = '/resultofteams';
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    }
+    </script>
+  <script>
+    function writeSchoolAndRedirect(name) {
+        fetch('/write-school', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ Name: name }),
+        })
+        .then(response => {
+            if (response.ok) {
+                window.location.href = '/resultofschool'; 
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    }
+    </script>
+  <script>
+    function writeNameAndRedirect(name) {
+        fetch('/write-name', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ teammateName: name }),
+        })
+        .then(response => {
+            if (response.ok) {
+                return fetch('/result');  // 首先访问 /result 路由
+            } else {
+                throw new Error('Network response was not ok.');
+            }
+        })
+        .then(response => {
+            if (response.ok) {
+                window.location.href = '/result';  // 然后重定向到 result.html
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    }
+    </script>
+</body>
+<footer class="c-footer">
+  <p>
+    This website is made by <a href="https://github.com/1943055307?tab=repositories" target="_blank">LTW</a>
+    and WYS from <a href="https://www.scu.edu.cn/" target = "_blank">SCU</a>.
+  </p>
+  <p>
+    Sincere thanks to <a href="https://oier.baoshuo.dev/" target="_blank">OIerDb</a> and <a href="https://board.xcpcio.com/" target="_blank">Board-XCPCIO</a>.
+  </p>
+</footer>
+</html>

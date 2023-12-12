@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>COACHES</title>
+  <link rel="stylesheet" type="text/css" href="{{ css_file }}">
+</head>
+
+<body>
+  <div class="div-flex">
+    <div class="left-images">
+      <a href="/">
+        <img src="/static/pic/icpc-logo.png" />
+      </a> 
+      <a href="https://www.scu.edu.cn/">
+        <img src="/static/pic/scu.png" />
+      </a>
+    </div>
+    <nav class="center-links">
+      <a href="/players">选手</a>
+      <a href="/matches">比赛</a>
+      <a href="/schools">学校</a>
+      <a href="/teams">队伍</a>
+      <a href="/coaches">教练</a>
+    </nav>
+  </div>
+  <div class="search-container">
+    <form onsubmit="event.preventDefault(); searchCoaches();">
+        <input type="text" id="search-box" placeholder="Search...">
+        <input type="submit" value="Search">
+    </form>
+</div>
+
+
+  <p>
+  </p>
+  <div id="coaches-list"></div>
+
+    <!-- 分页控件 -->
+    <ul id="pagination" class="pagination"></ul>
+
+    <script>
+        let currentPage = 1;
+        let totalPages = 306; // 假设总页数是306，这应该从服务器端获取
+        let currentSearchQuery = '';
+        
+        function fetchCoaches(page, searchQuery = currentSearchQuery) {
+            // 验证页码有效性
+            if (page < 1) return;
+
+            const url = `/api/coaches?page=${page}&per_page=10&search_query=${encodeURIComponent(searchQuery)}`;
+
+
+            // 使用fetch API发送GET请求
+            fetch(url)
+                .then(response => {
+                    // 确保响应状态为OK
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok ' + response.statusText);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+
+                    // 使用返回的教练数据更新页面
+                    const coachesList = document.getElementById('coaches-list');
+                    coachesList.innerHTML = ''; // 清空现有内容
+                    data.items.forEach(coach => {
+                          const coachElement = document.createElement('div');
+                          coachElement.className = 'outer-container'; // 应用样式类
+                          coachElement.innerHTML = `
+                              <div>
+                                ${coach.coach} From <a href="#" onclick="writeSchoolAndRedirect('${coach.university}')">${coach.university}</a>
+                                  <span class="medals">
+                                    ${coach.gold}  <img src="/static/pic/gold_b.png" style="width: 16px; height: 25px;">    ${coach.silver}  <img src="/static/pic/silver_b.png" style="width: 16px; height: 25px;">    ${coach.bronze}  <img src="/static/pic/bronze_b.png" style="width: 16px; height: 25px;">
+                                  </span>
+                              </div>`;
+                          coachesList.appendChild(coachElement);
+                      });
+
+                    // 更新分页控件
+                    totalPages = data.total_pages;  // 更新总页数
+                    updatePagination(page);
+
+                    // 更新当前页码
+                    currentPage = page;
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
+        }
+        function writeSchoolAndRedirect(name) {
+        fetch('/write-school', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({ Name: name }),
+        })
+        .then(response => {
+            if (response.ok) {
+                window.location.href = '/resultofschool'; 
+            }
+        })
+        .catch(error => console.error('Error:', error));
+    }
+        function searchCoaches() {
+            currentSearchQuery = document.getElementById('search-box').value;
+            fetchCoaches(1, currentSearchQuery); // 使用当前搜索查询从第一页开始搜索
+        }
+        function updatePagination(currentPage) {
+            const pagination = document.getElementById('pagination');
+            pagination.innerHTML = ''; // 清空现有的分页控件
+
+            // 创建上一页按钮
+            const prevPage = document.createElement('li');
+            prevPage.innerText = 'Last Page';
+            prevPage.onclick = () => fetchCoaches(currentPage - 1, currentSearchQuery);
+            pagination.appendChild(prevPage);
+
+            // 页码显示逻辑
+            for (let i = 1; i <= totalPages; i++) {
+                // 只显示当前页码的前后几页和第一页、最后一页
+                if (i == 1 || i == totalPages || (i >= currentPage - 2 && i <= currentPage + 2)) {
+                    const pageItem = document.createElement('li');
+                    pageItem.innerText = i;
+                    if (i === currentPage) {
+                        pageItem.classList.add('active');
+                    } else {
+                        pageItem.onclick = () => fetchCoaches(i);
+                    }
+                    pagination.appendChild(pageItem);
+                }
+                // 省略号逻辑
+                if (i === currentPage - 3 || i === currentPage + 3) {
+                    const dots = document.createElement('li');
+                    dots.innerText = '...';
+                    pagination.appendChild(dots);
+                }
+            }
+
+            // 创建下一页按钮
+            const nextPage = document.createElement('li');
+            nextPage.innerText = 'Next Page';
+            nextPage.onclick = () => fetchCoaches(currentPage + 1, currentSearchQuery);
+            pagination.appendChild(nextPage);
+        }
+
+        // 初始加载
+        fetchCoaches(currentPage);
+    </script>
+
+
+  </div>
+  <footer class="c-footer">
+    <p>
+      This website is made by <a href="https://github.com/1943055307?tab=repositories" target="_blank">LTW</a>
+      and WYS from <a href="https://www.scu.edu.cn/" target = "_blank">SCU</a>.
+    </p>
+    <p>
+      Sincere thanks to <a href="https://oier.baoshuo.dev/" target="_blank">OIerDb</a> and <a href="https://board.xcpcio.com/" target="_blank">Board-XCPCIO</a>.
+    </p>
+  </footer>
+  
+</body>
+</html>

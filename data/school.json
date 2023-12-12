@@ -1,0 +1,2030 @@
+{
+    "1": {
+        "university": "北京大学",
+        "gold": 83,
+        "silver": 17,
+        "bronze": 1
+    },
+    "2": {
+        "university": "清华大学",
+        "gold": 81,
+        "silver": 17,
+        "bronze": 4
+    },
+    "3": {
+        "university": "浙江大学",
+        "gold": 78,
+        "silver": 21,
+        "bronze": 7
+    },
+    "4": {
+        "university": "上海交通大学",
+        "gold": 51,
+        "silver": 21,
+        "bronze": 1
+    },
+    "5": {
+        "university": "杭州电子科技大学",
+        "gold": 48,
+        "silver": 48,
+        "bronze": 20
+    },
+    "6": {
+        "university": "北京航空航天大学",
+        "gold": 44,
+        "silver": 42,
+        "bronze": 16
+    },
+    "7": {
+        "university": "中山大学",
+        "gold": 35,
+        "silver": 45,
+        "bronze": 22
+    },
+    "8": {
+        "university": "电子科技大学",
+        "gold": 33,
+        "silver": 45,
+        "bronze": 33
+    },
+    "9": {
+        "university": "南京大学",
+        "gold": 29,
+        "silver": 50,
+        "bronze": 26
+    },
+    "10": {
+        "university": "南方科技大学",
+        "gold": 26,
+        "silver": 33,
+        "bronze": 21
+    },
+    "11": {
+        "university": "北京邮电大学",
+        "gold": 24,
+        "silver": 44,
+        "bronze": 35
+    },
+    "12": {
+        "university": "北京理工大学",
+        "gold": 22,
+        "silver": 41,
+        "bronze": 31
+    },
+    "13": {
+        "university": "复旦大学",
+        "gold": 20,
+        "silver": 32,
+        "bronze": 14
+    },
+    "14": {
+        "university": "哈尔滨工业大学",
+        "gold": 18,
+        "silver": 37,
+        "bronze": 33
+    },
+    "15": {
+        "university": "吉林大学",
+        "gold": 18,
+        "silver": 28,
+        "bronze": 21
+    },
+    "16": {
+        "university": "中国科学技术大学",
+        "gold": 16,
+        "silver": 17,
+        "bronze": 11
+    },
+    "17": {
+        "university": "中南大学",
+        "gold": 15,
+        "silver": 31,
+        "bronze": 20
+    },
+    "18": {
+        "university": "东南大学",
+        "gold": 15,
+        "silver": 15,
+        "bronze": 19
+    },
+    "19": {
+        "university": "华中科技大学",
+        "gold": 14,
+        "silver": 32,
+        "bronze": 27
+    },
+    "20": {
+        "university": "华南理工大学",
+        "gold": 14,
+        "silver": 27,
+        "bronze": 40
+    },
+    "21": {
+        "university": "山东大学",
+        "gold": 13,
+        "silver": 37,
+        "bronze": 29
+    },
+    "22": {
+        "university": "南京邮电大学",
+        "gold": 13,
+        "silver": 18,
+        "bronze": 29
+    },
+    "23": {
+        "university": "武汉大学",
+        "gold": 12,
+        "silver": 41,
+        "bronze": 29
+    },
+    "24": {
+        "university": "浙江工业大学",
+        "gold": 12,
+        "silver": 35,
+        "bronze": 40
+    },
+    "25": {
+        "university": "浙江师范大学",
+        "gold": 12,
+        "silver": 35,
+        "bronze": 32
+    },
+    "26": {
+        "university": "香港中文大学（深圳）",
+        "gold": 12,
+        "silver": 13,
+        "bronze": 8
+    },
+    "27": {
+        "university": "西安交通大学",
+        "gold": 11,
+        "silver": 25,
+        "bronze": 25
+    },
+    "28": {
+        "university": "华侨大学",
+        "gold": 11,
+        "silver": 1,
+        "bronze": 1
+    },
+    "29": {
+        "university": "四川大学",
+        "gold": 10,
+        "silver": 39,
+        "bronze": 31
+    },
+    "30": {
+        "university": "华东师范大学",
+        "gold": 10,
+        "silver": 30,
+        "bronze": 21
+    },
+    "31": {
+        "university": "哈尔滨工业大学（深圳）",
+        "gold": 10,
+        "silver": 27,
+        "bronze": 29
+    },
+    "32": {
+        "university": "苏州大学",
+        "gold": 10,
+        "silver": 23,
+        "bronze": 23
+    },
+    "33": {
+        "university": "北京交通大学",
+        "gold": 10,
+        "silver": 22,
+        "bronze": 30
+    },
+    "34": {
+        "university": "西安电子科技大学",
+        "gold": 9,
+        "silver": 33,
+        "bronze": 29
+    },
+    "35": {
+        "university": "东北大学",
+        "gold": 9,
+        "silver": 26,
+        "bronze": 26
+    },
+    "36": {
+        "university": "天津大学",
+        "gold": 9,
+        "silver": 25,
+        "bronze": 29
+    },
+    "37": {
+        "university": "福州大学",
+        "gold": 8,
+        "silver": 36,
+        "bronze": 32
+    },
+    "38": {
+        "university": "哈尔滨工程大学",
+        "gold": 8,
+        "silver": 26,
+        "bronze": 32
+    },
+    "39": {
+        "university": "上海大学",
+        "gold": 8,
+        "silver": 18,
+        "bronze": 36
+    },
+    "40": {
+        "university": "湖南大学",
+        "gold": 8,
+        "silver": 14,
+        "bronze": 10
+    },
+    "41": {
+        "university": "暨南大学",
+        "gold": 8,
+        "silver": 7,
+        "bronze": 13
+    },
+    "42": {
+        "university": "同济大学",
+        "gold": 6,
+        "silver": 27,
+        "bronze": 30
+    },
+    "43": {
+        "university": "大连理工大学",
+        "gold": 6,
+        "silver": 19,
+        "bronze": 21
+    },
+    "44": {
+        "university": "南京理工大学",
+        "gold": 6,
+        "silver": 17,
+        "bronze": 21
+    },
+    "45": {
+        "university": "国防科技大学",
+        "gold": 6,
+        "silver": 15,
+        "bronze": 20
+    },
+    "46": {
+        "university": "西北工业大学",
+        "gold": 6,
+        "silver": 14,
+        "bronze": 28
+    },
+    "47": {
+        "university": "北京师范大学",
+        "gold": 6,
+        "silver": 10,
+        "bronze": 20
+    },
+    "48": {
+        "university": "武汉理工大学",
+        "gold": 6,
+        "silver": 6,
+        "bronze": 23
+    },
+    "49": {
+        "university": "华中师范大学",
+        "gold": 5,
+        "silver": 15,
+        "bronze": 19
+    },
+    "50": {
+        "university": "中国科学院大学",
+        "gold": 5,
+        "silver": 10,
+        "bronze": 11
+    },
+    "51": {
+        "university": "中国人民大学",
+        "gold": 5,
+        "silver": 9,
+        "bronze": 12
+    },
+    "52": {
+        "university": "郑州大学",
+        "gold": 5,
+        "silver": 8,
+        "bronze": 19
+    },
+    "53": {
+        "university": "烟台大学",
+        "gold": 5,
+        "silver": 0,
+        "bronze": 5
+    },
+    "54": {
+        "university": "厦门大学",
+        "gold": 4,
+        "silver": 17,
+        "bronze": 26
+    },
+    "55": {
+        "university": "兰州大学",
+        "gold": 4,
+        "silver": 9,
+        "bronze": 10
+    },
+    "56": {
+        "university": "湖南师范大学",
+        "gold": 4,
+        "silver": 5,
+        "bronze": 15
+    },
+    "57": {
+        "university": "北京建筑大学",
+        "gold": 4,
+        "silver": 1,
+        "bronze": 0
+    },
+    "58": {
+        "university": "广东工业大学",
+        "gold": 3,
+        "silver": 17,
+        "bronze": 45
+    },
+    "59": {
+        "university": "中国石油大学（华东）",
+        "gold": 3,
+        "silver": 11,
+        "bronze": 11
+    },
+    "60": {
+        "university": "湘潭大学",
+        "gold": 3,
+        "silver": 9,
+        "bronze": 19
+    },
+    "61": {
+        "university": "江西师范大学",
+        "gold": 3,
+        "silver": 7,
+        "bronze": 10
+    },
+    "62": {
+        "university": "西南大学",
+        "gold": 3,
+        "silver": 7,
+        "bronze": 2
+    },
+    "63": {
+        "university": "南开大学",
+        "gold": 3,
+        "silver": 6,
+        "bronze": 21
+    },
+    "64": {
+        "university": "香港大学",
+        "gold": 3,
+        "silver": 5,
+        "bronze": 7
+    },
+    "65": {
+        "university": "华东理工大学",
+        "gold": 3,
+        "silver": 2,
+        "bronze": 8
+    },
+    "66": {
+        "university": "昆山杜克大学",
+        "gold": 3,
+        "silver": 1,
+        "bronze": 0
+    },
+    "67": {
+        "university": "浙江理工大学",
+        "gold": 2,
+        "silver": 16,
+        "bronze": 32
+    },
+    "68": {
+        "university": "浙江农林大学",
+        "gold": 2,
+        "silver": 15,
+        "bronze": 23
+    },
+    "69": {
+        "university": "浙大城市学院",
+        "gold": 2,
+        "silver": 14,
+        "bronze": 29
+    },
+    "70": {
+        "university": "北京化工大学",
+        "gold": 2,
+        "silver": 13,
+        "bronze": 23
+    },
+    "71": {
+        "university": "哈尔滨工业大学（威海）",
+        "gold": 2,
+        "silver": 10,
+        "bronze": 18
+    },
+    "72": {
+        "university": "青岛大学",
+        "gold": 2,
+        "silver": 10,
+        "bronze": 17
+    },
+    "73": {
+        "university": "上海科技大学",
+        "gold": 2,
+        "silver": 9,
+        "bronze": 9
+    },
+    "74": {
+        "university": "杭州电子科技大学信息工程学院",
+        "gold": 2,
+        "silver": 9,
+        "bronze": 1
+    },
+    "75": {
+        "university": "安徽大学",
+        "gold": 2,
+        "silver": 8,
+        "bronze": 15
+    },
+    "76": {
+        "university": "南京航空航天大学",
+        "gold": 2,
+        "silver": 7,
+        "bronze": 21
+    },
+    "77": {
+        "university": "山东大学（威海）",
+        "gold": 2,
+        "silver": 7,
+        "bronze": 15
+    },
+    "78": {
+        "university": "东北师范大学",
+        "gold": 2,
+        "silver": 6,
+        "bronze": 24
+    },
+    "79": {
+        "university": "河南农业大学",
+        "gold": 2,
+        "silver": 6,
+        "bronze": 12
+    },
+    "80": {
+        "university": "广东外语外贸大学",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 8
+    },
+    "81": {
+        "university": "香港城市大学",
+        "gold": 2,
+        "silver": 3,
+        "bronze": 3
+    },
+    "82": {
+        "university": "香港中文大學",
+        "gold": 2,
+        "silver": 2,
+        "bronze": 0
+    },
+    "83": {
+        "university": "深圳大学",
+        "gold": 1,
+        "silver": 16,
+        "bronze": 34
+    },
+    "84": {
+        "university": "南京信息工程大学",
+        "gold": 1,
+        "silver": 12,
+        "bronze": 19
+    },
+    "85": {
+        "university": "浙江工商大学",
+        "gold": 1,
+        "silver": 10,
+        "bronze": 18
+    },
+    "86": {
+        "university": "杭州师范大学",
+        "gold": 1,
+        "silver": 8,
+        "bronze": 28
+    },
+    "87": {
+        "university": "浙江财经大学",
+        "gold": 1,
+        "silver": 8,
+        "bronze": 13
+    },
+    "88": {
+        "university": "重庆邮电大学",
+        "gold": 1,
+        "silver": 7,
+        "bronze": 13
+    },
+    "89": {
+        "university": "合肥工业大学宣城校区",
+        "gold": 1,
+        "silver": 7,
+        "bronze": 8
+    },
+    "90": {
+        "university": "浙江万里学院",
+        "gold": 1,
+        "silver": 7,
+        "bronze": 8
+    },
+    "91": {
+        "university": "宁波大学",
+        "gold": 1,
+        "silver": 6,
+        "bronze": 18
+    },
+    "92": {
+        "university": "青岛科技大学",
+        "gold": 1,
+        "silver": 6,
+        "bronze": 7
+    },
+    "93": {
+        "university": "香港中文大学",
+        "gold": 1,
+        "silver": 6,
+        "bronze": 3
+    },
+    "94": {
+        "university": "浙大宁波理工学院",
+        "gold": 1,
+        "silver": 5,
+        "bronze": 17
+    },
+    "95": {
+        "university": "中国地质大学（武汉）",
+        "gold": 1,
+        "silver": 5,
+        "bronze": 11
+    },
+    "96": {
+        "university": "西北农林科技大学",
+        "gold": 1,
+        "silver": 5,
+        "bronze": 8
+    },
+    "97": {
+        "university": "中北大学",
+        "gold": 1,
+        "silver": 4,
+        "bronze": 11
+    },
+    "98": {
+        "university": "湖南文理学院",
+        "gold": 1,
+        "silver": 4,
+        "bronze": 6
+    },
+    "99": {
+        "university": "香港科技大学",
+        "gold": 1,
+        "silver": 4,
+        "bronze": 3
+    },
+    "100": {
+        "university": "广州大学",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 17
+    },
+    "101": {
+        "university": "福建师范大学",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 13
+    },
+    "102": {
+        "university": "中国石油大学（北京）",
+        "gold": 1,
+        "silver": 3,
+        "bronze": 5
+    },
+    "103": {
+        "university": "广西大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 15
+    },
+    "104": {
+        "university": "周口师范学院",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 3
+    },
+    "105": {
+        "university": "四川农业大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 2
+    },
+    "106": {
+        "university": "中国人民解放军国防科技大学",
+        "gold": 1,
+        "silver": 2,
+        "bronze": 0
+    },
+    "107": {
+        "university": "常熟理工学院",
+        "gold": 1,
+        "silver": 1,
+        "bronze": 8
+    },
+    "108": {
+        "university": "上海财经大学",
+        "gold": 1,
+        "silver": 0,
+        "bronze": 7
+    },
+    "109": {
+        "university": "东北大学秦皇岛分校",
+        "gold": 0,
+        "silver": 15,
+        "bronze": 37
+    },
+    "110": {
+        "university": "重庆大学",
+        "gold": 0,
+        "silver": 14,
+        "bronze": 21
+    },
+    "111": {
+        "university": "武汉科技大学",
+        "gold": 0,
+        "silver": 14,
+        "bronze": 15
+    },
+    "112": {
+        "university": "长沙理工大学",
+        "gold": 0,
+        "silver": 13,
+        "bronze": 19
+    },
+    "113": {
+        "university": "西南交通大学",
+        "gold": 0,
+        "silver": 13,
+        "bronze": 19
+    },
+    "114": {
+        "university": "山东理工大学",
+        "gold": 0,
+        "silver": 12,
+        "bronze": 29
+    },
+    "115": {
+        "university": "河海大学",
+        "gold": 0,
+        "silver": 12,
+        "bronze": 23
+    },
+    "116": {
+        "university": "哈尔滨理工大学",
+        "gold": 0,
+        "silver": 12,
+        "bronze": 21
+    },
+    "117": {
+        "university": "东华大学",
+        "gold": 0,
+        "silver": 12,
+        "bronze": 11
+    },
+    "118": {
+        "university": "上海理工大学",
+        "gold": 0,
+        "silver": 11,
+        "bronze": 6
+    },
+    "119": {
+        "university": "华南农业大学",
+        "gold": 0,
+        "silver": 10,
+        "bronze": 18
+    },
+    "120": {
+        "university": "中国计量大学",
+        "gold": 0,
+        "silver": 7,
+        "bronze": 21
+    },
+    "121": {
+        "university": "中国矿业大学",
+        "gold": 0,
+        "silver": 7,
+        "bronze": 18
+    },
+    "122": {
+        "university": "北京林业大学",
+        "gold": 0,
+        "silver": 7,
+        "bronze": 13
+    },
+    "123": {
+        "university": "中国地质大学（北京）",
+        "gold": 0,
+        "silver": 6,
+        "bronze": 20
+    },
+    "124": {
+        "university": "东北农业大学",
+        "gold": 0,
+        "silver": 6,
+        "bronze": 17
+    },
+    "125": {
+        "university": "南昌大学",
+        "gold": 0,
+        "silver": 6,
+        "bronze": 14
+    },
+    "126": {
+        "university": "太原理工大学",
+        "gold": 0,
+        "silver": 6,
+        "bronze": 8
+    },
+    "127": {
+        "university": "长春理工大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 25
+    },
+    "128": {
+        "university": "西南科技大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 24
+    },
+    "129": {
+        "university": "华南师范大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 23
+    },
+    "130": {
+        "university": "桂林电子科技大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 23
+    },
+    "131": {
+        "university": "西南民族大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 15
+    },
+    "132": {
+        "university": "湖北工业大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 11
+    },
+    "133": {
+        "university": "合肥工业大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 10
+    },
+    "134": {
+        "university": "郑州轻工业大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 10
+    },
+    "135": {
+        "university": "台州学院",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 6
+    },
+    "136": {
+        "university": "济南大学",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 6
+    },
+    "137": {
+        "university": "河海大学常州校区",
+        "gold": 0,
+        "silver": 5,
+        "bronze": 0
+    },
+    "138": {
+        "university": "浙江科技学院",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 19
+    },
+    "139": {
+        "university": "西北大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 16
+    },
+    "140": {
+        "university": "山东师范大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 11
+    },
+    "141": {
+        "university": "齐鲁工业大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 9
+    },
+    "142": {
+        "university": "中国传媒大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 7
+    },
+    "143": {
+        "university": "辽宁大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 7
+    },
+    "144": {
+        "university": "贵州大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 7
+    },
+    "145": {
+        "university": "南华大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 6
+    },
+    "146": {
+        "university": "西南财经大学",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 5
+    },
+    "147": {
+        "university": "香港科技大学（广州）",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 4
+    },
+    "148": {
+        "university": "中国矿业大学（北京）",
+        "gold": 0,
+        "silver": 4,
+        "bronze": 2
+    },
+    "149": {
+        "university": "江南大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 13
+    },
+    "150": {
+        "university": "华中农业大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 11
+    },
+    "151": {
+        "university": "河南大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 11
+    },
+    "152": {
+        "university": "浙江中医药大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 10
+    },
+    "153": {
+        "university": "电子科技大学中山学院",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 10
+    },
+    "154": {
+        "university": "河南工业大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 10
+    },
+    "155": {
+        "university": "山东科技大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 10
+    },
+    "156": {
+        "university": "集美大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 9
+    },
+    "157": {
+        "university": "天津工业大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 7
+    },
+    "158": {
+        "university": "长沙学院",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 7
+    },
+    "159": {
+        "university": "湖南理工学院",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 7
+    },
+    "160": {
+        "university": "南通大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 6
+    },
+    "161": {
+        "university": "成都理工大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 6
+    },
+    "162": {
+        "university": "深圳技术大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 4
+    },
+    "163": {
+        "university": "中国民航大学",
+        "gold": 0,
+        "silver": 3,
+        "bronze": 3
+    },
+    "164": {
+        "university": "南阳理工学院",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 16
+    },
+    "165": {
+        "university": "河北师范大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 11
+    },
+    "166": {
+        "university": "黑龙江大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 9
+    },
+    "167": {
+        "university": "北方工业大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 9
+    },
+    "168": {
+        "university": "合肥学院",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 9
+    },
+    "169": {
+        "university": "西安理工大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 8
+    },
+    "170": {
+        "university": "江西财经大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 7
+    },
+    "171": {
+        "university": "惠州学院",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 6
+    },
+    "172": {
+        "university": "长春工业大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 4
+    },
+    "173": {
+        "university": "湖南农业大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 4
+    },
+    "174": {
+        "university": "江苏科技大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 4
+    },
+    "175": {
+        "university": "燕山大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 4
+    },
+    "176": {
+        "university": "武汉纺织大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 4
+    },
+    "177": {
+        "university": "东莞理工学院",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 3
+    },
+    "178": {
+        "university": "河北工业大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 3
+    },
+    "179": {
+        "university": "北京信息科技大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 3
+    },
+    "180": {
+        "university": "哈尔滨商业大学",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 2
+    },
+    "181": {
+        "university": "衡阳师范学院",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 2
+    },
+    "182": {
+        "university": "哈尔滨学院",
+        "gold": 0,
+        "silver": 2,
+        "bronze": 1
+    },
+    "183": {
+        "university": "成都信息工程大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 19
+    },
+    "184": {
+        "university": "湖南科技大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 18
+    },
+    "185": {
+        "university": "中南民族大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 13
+    },
+    "186": {
+        "university": "南昌航空大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 11
+    },
+    "187": {
+        "university": "东北电力大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 10
+    },
+    "188": {
+        "university": "中国海洋大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 9
+    },
+    "189": {
+        "university": "长安大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 9
+    },
+    "190": {
+        "university": "鲁东大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 8
+    },
+    "191": {
+        "university": "天津理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 8
+    },
+    "192": {
+        "university": "河南理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 8
+    },
+    "193": {
+        "university": "温州大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 7
+    },
+    "194": {
+        "university": "江西理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 6
+    },
+    "195": {
+        "university": "北京科技大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 6
+    },
+    "196": {
+        "university": "湖州师范学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 5
+    },
+    "197": {
+        "university": "绍兴文理学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 5
+    },
+    "198": {
+        "university": "沈阳化工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 5
+    },
+    "199": {
+        "university": "乐山师范学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 5
+    },
+    "200": {
+        "university": "成都东软学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 5
+    },
+    "201": {
+        "university": "南京师范大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 5
+    },
+    "202": {
+        "university": "信息工程大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 4
+    },
+    "203": {
+        "university": "安阳工学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 4
+    },
+    "204": {
+        "university": "武汉工程大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 4
+    },
+    "205": {
+        "university": "北京工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 4
+    },
+    "206": {
+        "university": "西湖大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 4
+    },
+    "207": {
+        "university": "浙江农林大学暨阳学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 4
+    },
+    "208": {
+        "university": "南昌理工学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "209": {
+        "university": "广西师范大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "210": {
+        "university": "福建工程学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "211": {
+        "university": "江苏大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "212": {
+        "university": "广东财经大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "213": {
+        "university": "中国人民解放军战略支援部队信息工程大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "214": {
+        "university": "福建农林大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "215": {
+        "university": "北京理工大学珠海学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "216": {
+        "university": "福建理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 3
+    },
+    "217": {
+        "university": "华北理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "218": {
+        "university": "武昌理工学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "219": {
+        "university": "青岛理工大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "220": {
+        "university": "上海海事大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "221": {
+        "university": "绍兴文理学院元培学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "222": {
+        "university": "新疆大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "223": {
+        "university": "安徽工业大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 2
+    },
+    "224": {
+        "university": "宜春学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "225": {
+        "university": "广州中医药大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "226": {
+        "university": "江苏理工学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "227": {
+        "university": "华北电力大学（北京）",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 1
+    },
+    "228": {
+        "university": "宁夏理工学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "229": {
+        "university": "信阳师范学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "230": {
+        "university": "香港浸会大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "231": {
+        "university": "佛山科学技术学院",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "232": {
+        "university": "上海海洋大学",
+        "gold": 0,
+        "silver": 1,
+        "bronze": 0
+    },
+    "233": {
+        "university": "西南石油大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 9
+    },
+    "234": {
+        "university": "吉首大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 9
+    },
+    "235": {
+        "university": "战略支援部队信息工程大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 7
+    },
+    "236": {
+        "university": "北华大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 7
+    },
+    "237": {
+        "university": "东北林业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 7
+    },
+    "238": {
+        "university": "四川师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 6
+    },
+    "239": {
+        "university": "湖南工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 6
+    },
+    "240": {
+        "university": "大连大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 6
+    },
+    "241": {
+        "university": "临沂大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 6
+    },
+    "242": {
+        "university": "大连海事大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 6
+    },
+    "243": {
+        "university": "闽南师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 5
+    },
+    "244": {
+        "university": "嘉应学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 5
+    },
+    "245": {
+        "university": "广东工业大学揭阳校区",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 5
+    },
+    "246": {
+        "university": "南京林业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 5
+    },
+    "247": {
+        "university": "湖南警察学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "248": {
+        "university": "山东农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "249": {
+        "university": "浙江育英职业技术学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "250": {
+        "university": "华东交通大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 4
+    },
+    "251": {
+        "university": "湖北中医药大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "252": {
+        "university": "上海师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "253": {
+        "university": "肇庆学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "254": {
+        "university": "浙江机电职业技术学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "255": {
+        "university": "浙江工业职业技术学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "256": {
+        "university": "昆明理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "257": {
+        "university": "云南大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "258": {
+        "university": "沈阳航空航天大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "259": {
+        "university": "沈阳理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "260": {
+        "university": "齐齐哈尔大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "261": {
+        "university": "深圳北理莫斯科大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 3
+    },
+    "262": {
+        "university": "曲阜师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "263": {
+        "university": "浙江工商大学杭州商学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "264": {
+        "university": "天津仁爱学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "265": {
+        "university": "山东工商学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "266": {
+        "university": "苏州科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "267": {
+        "university": "阜阳师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "268": {
+        "university": "江西理工大学南昌校区",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "269": {
+        "university": "河南师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "270": {
+        "university": "中原工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "271": {
+        "university": "上海电机学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "272": {
+        "university": "湖南科技学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "273": {
+        "university": "广东技术师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "274": {
+        "university": "三峡大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "275": {
+        "university": "宁波工程学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "276": {
+        "university": "安徽工程大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "277": {
+        "university": "金陵科技学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "278": {
+        "university": "中国计量大学现代科技学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "279": {
+        "university": "常州大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "280": {
+        "university": "西安建筑科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "281": {
+        "university": "中南林业科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "282": {
+        "university": "陕西科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "283": {
+        "university": "石家庄铁道大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "284": {
+        "university": "盐城工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "285": {
+        "university": "厦门理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "286": {
+        "university": "江西农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "287": {
+        "university": "厦门大学嘉庚学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "288": {
+        "university": "东华理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "289": {
+        "university": "韶关学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "290": {
+        "university": "山西大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "291": {
+        "university": "安徽农业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 2
+    },
+    "292": {
+        "university": "北华航天工业学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "293": {
+        "university": "泉州师范学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "294": {
+        "university": "黄冈师范学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "295": {
+        "university": "华北电力大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "296": {
+        "university": "怀化学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "297": {
+        "university": "井冈山大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "298": {
+        "university": "徐州工程学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "299": {
+        "university": "广西科技大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "300": {
+        "university": "成都树德中学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "301": {
+        "university": "山东财经大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "302": {
+        "university": "宁波理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "303": {
+        "university": "暨南大学（番禺校区）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "304": {
+        "university": "大连东软信息学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "305": {
+        "university": "成都锦城学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "306": {
+        "university": "广东金融学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "307": {
+        "university": "湖南中医药大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "308": {
+        "university": "深圳职业技术学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "309": {
+        "university": "华北水利水电大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "310": {
+        "university": "河北科技师范学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "311": {
+        "university": "上海应用技术大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "312": {
+        "university": "邵阳学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "313": {
+        "university": "武汉轻工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "314": {
+        "university": "湖南工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "315": {
+        "university": "北京联合大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "316": {
+        "university": "淮北师范大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "317": {
+        "university": "香港理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "318": {
+        "university": "广州城市理工学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "319": {
+        "university": "西安邮电大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "320": {
+        "university": "宁波职业技术学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "321": {
+        "university": "重庆理工大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "322": {
+        "university": "湖南城市学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "323": {
+        "university": "莆田学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "324": {
+        "university": "信阳农林学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "325": {
+        "university": "南京邮电大学通达学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "326": {
+        "university": "浙江广厦建设职业技术大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "327": {
+        "university": "龙岩学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "328": {
+        "university": "宁波财经学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "329": {
+        "university": "海南大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "330": {
+        "university": "南京工业大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "331": {
+        "university": "河北大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "332": {
+        "university": "宁夏大学",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "333": {
+        "university": "潍坊学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "334": {
+        "university": "北京师范大学珠海校区",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "335": {
+        "university": "无锡学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "336": {
+        "university": "武汉商学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "337": {
+        "university": "仲恺农业工程学院",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    },
+    "338": {
+        "university": "华北电力大学（保定）",
+        "gold": 0,
+        "silver": 0,
+        "bronze": 1
+    }
+}
